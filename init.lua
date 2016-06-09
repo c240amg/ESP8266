@@ -1,0 +1,7 @@
+     gpio.mode(1,gpio.OUTPUT)
+    gpio.write(1,gpio.HIGH)
+    wifi.setmode(wifi.STATION)
+    wifi.sta.config("wifi name","wifi passwd")
+    print (wifi.sta.getip())
+    gpio.write(1,gpio.LOW)
+    dofile("main.lua") 

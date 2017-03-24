@@ -6,3 +6,5 @@ This project uses the following components:
 * [DHT22](http://www.amazon.co.uk/gp/product/B005A9KJ4I?psc=1&redirect=true&ref_=oh_aui_detailpage_o02_s00)  temperature/humidity sensor  
 
 ## 
+
+This displays humidity and temperature on a OLEd display, along with heartbeat, and a continually swapping IP Address, state and SSID
